@@ -1,0 +1,3 @@
+C:/Users/kingo/source/repos/Reubimental/T-BAG/out/build/x64-Debug/CMakeFiles/T-BAG.dir
+C:/Users/kingo/source/repos/Reubimental/T-BAG/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/kingo/source/repos/Reubimental/T-BAG/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
